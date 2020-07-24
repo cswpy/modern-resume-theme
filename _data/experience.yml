@@ -1,0 +1,10 @@
+# Experience template
+- layout: left
+  company: combyne
+  link: Link to company (optional)
+  job_title: Junior Data Analyst
+  dates: June 2020 - Present
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role

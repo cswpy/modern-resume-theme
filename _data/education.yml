@@ -1,0 +1,9 @@
+# Education Template
+- layout: left
+  name: New York University Abu Dhabi
+  dates: 2019 - 2023
+  qualification: Computer Science
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Data Structures; Algorithms; Multivariable Calculus; Linear Algebra
