@@ -1,10 +1,40 @@
 # Experience template
 - layout: left
   company: combyne
-  link: Link to company (optional)
+  link: www.combyne.com
   job_title: Junior Data Analyst
   dates: June 2020 - Present
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    * Delivers user retention reports with BigQuery and Google Analytics
+    * Builds closed funnels for tracking user behaviors
+    * Provides suggestions on user retention through cohort analysis
+
+- layout: left
+  company: AppCircle Education
+  link:
+  job_title: Co-Founder
+  dates: July 2017 - May 2019
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    * Joined the founding team to build the company
+    * Responsible of data analysis of matriculation profiles
+    * Led the social media operation team and accumulated 10k+ subscribers
+
+- layout: left
+  company: Education Without Barriers
+  link: https://educationwithoutbarriers.org/
+  jobs: 
+    - title: Volunteer Teacher
+      dates: October 2017 - July 2018
+    - title: Regional Manager
+      dates: August 2018 - April 2019
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    * Managed the regional day-to-day operations in Liaoning, China
+    * Developed the feedback mechanism to ensure the class quality 
+    * Contributed more than 150 hours as a volunteer teacher
+    * Led the development team that build the official website
