@@ -2,8 +2,9 @@
 - layout: top-middle
   name: Engulfed Collective
   link: http://engulfedcollective.net/
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  github:
   quote: >
-    Short overview of the project (optional)
+
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+  - Started the first journal to feature undergraduate works in the GCC region
+  - Developed the official website for the initiative alone
