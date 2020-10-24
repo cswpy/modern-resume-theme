@@ -45,7 +45,7 @@ google_analytics: "UA-180334489-1"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: img/profile_pic.jpg
+about_profile_image: img/pic-placeholder.png
 about_content: | # this will include new lines to allow paragraphs
   Currently pursuing bachelor degree in Computer Science at New York University Abu Dhabi. Minor in Applied Mathematics. I am interested in data science, entrepreneurship, and product management. Some of my favorite languages are: <mark>Chinese</mark>, <mark>English</mark>, <mark>Python</mark>.
 
